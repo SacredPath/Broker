@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS Test - Optionshares</title>
+    <link href="../assets/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="../assets/css/style.css" rel="stylesheet"/>
+    <style>
+        body { padding: 20px; font-family: Arial, sans-serif; }
+        .test { background: #f0f0f0; padding: 20px; margin: 20px 0; border: 2px solid #0066FF; }
+        .success { color: green; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>CSS Loading Test</h1>
+    <div class="test">
+        <p class="success">If you see styled content, CSS is loading correctly!</p>
+        <p>Check browser DevTools (F12) -> Network tab to see if CSS files are loading.</p>
+    </div>
+    <div class="test">
+        <h2>CSS Files Should Load:</h2>
+        <ul>
+            <li>bootstrap.min.css</li>
+            <li>style.css</li>
+            <li>aos.css</li>
+            <li>all.min.css</li>
+            <li>swiper-bundle.min.css</li>
+        </ul>
+    </div>
+    <div class="test">
+        <h2>Troubleshooting:</h2>
+        <ol>
+            <li>Open browser DevTools (F12)</li>
+            <li>Go to Network tab</li>
+            <li>Refresh the page</li>
+            <li>Look for CSS files - check if they load (status 200)</li>
+            <li>If 404 errors, the server might not be running from the correct directory</li>
+        </ol>
+    </div>
+</body>
+</html>
+

@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+
+<html class="lb-breakpoints yth-page" data-generated-by="stalefish@0.0.9" dir="ltr" geo="ALL" lang="en" lb-auto-init="YTHPage" locale="ALL_ALL">
+<head>
+<meta charset="utf-8"/>
+<!-- Google Tag Manager -->
+<script nonce="Pr-jCTZnStc4n7337ba5Ig">
+      function glueCookieNotificationBarLoaded() {
+        (function (w, d, s, l, i) {
+          w[l] = w[l] || [];
+          w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+          var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != "dataLayer" ? "&l=" + l : "";
+          j.async = true;
+          j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+          f.parentNode.insertBefore(j, f);
+        })(window, document, "script", "dataLayer", "GTM-56HCXDK");
+      }
+    </script>
+<!-- End Google Tag Manager -->
+<meta content="IE=Edge" http-equiv="X-UA-Compatible"/>
+<meta content="initial-scale=1, minimum-scale=1, width=device-width, viewport-fit=cover" name="viewport"/>
+<meta content="on" http-equiv="x-dns-prefetch-control"/>
+<title>How YouTube Works: Giving Everyone a Voice</title>
+<meta content="YouTube is home to unique voiOSI and an array of content. Understand how YouTube works, from protecting user privacy to amplifying voiOSI globally." name="description"/>
+<link href="https://www.youtube.com/howyoutubeworks/" rel="canonical"/>
+<!-- Open graph metadata -->
+<meta content="nopin" name="pinterest"/>
+<meta class="meta-url" content="https://www.youtube.com/howyoutubeworks/" property="og:url"/>
+<meta content="website" property="og:type"/>
+<meta content="https://lh3.googleusercontent.com/se048cFLsr5cNioO9UrA_9YotuuWOob9q-4whdB6LkTMLHzVGtUI4wvdhVDdagxFQkFbi91Zph9y3Xu7C_q-krcTKbrSyejqsafYqF2BhlD9zUyxjg=s0" property="og:image"/>
+<meta content="How YouTube Works: Giving Everyone a Voice" property="og:title"/>
+<meta content="How YouTube Works" property="og:site_name"/>
+<meta content="YouTube is home to unique voiOSI and an array of content. Understand how YouTube works, from protecting user privacy to amplifying voiOSI globally." property="og:description"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta class="meta-url" content="https://www.youtube.com/howyoutubeworks/" name="twitter:url"/>
+<meta content="How YouTube Works: Giving Everyone a Voice" name="twitter:title"/>
+<meta content="YouTube is home to unique voiOSI and an array of content. Understand how YouTube works, from protecting user privacy to amplifying voiOSI globally." name="twitter:description"/>
+<meta content="https://lh3.googleusercontent.com/se048cFLsr5cNioO9UrA_9YotuuWOob9q-4whdB6LkTMLHzVGtUI4wvdhVDdagxFQkFbi91Zph9y3Xu7C_q-krcTKbrSyejqsafYqF2BhlD9zUyxjg=s0" name="twitter:image"/>
+<!-- Preconnect and preload assets here -->
+<link href="//lh3.googleusercontent.com" rel="preconnect"/>
+<link href="//kstatic.googleusercontent.com" rel="preconnect"/>
+<!-- Favicons -->
+<link href="https://www.youtube.com/yts/img/favicon-vfl8qSV2F.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="https://www.youtube.com/yts/img/favicon_32-vflOogEID.png" rel="icon" sizes="32x32"/>
+<link href="https://www.youtube.com/yts/img/favicon_48-vflVjB_Qk.png" rel="icon" sizes="48x48"/>
+<link href="https://www.youtube.com/yts/img/favicon_96-vflW9Ec0w.png" rel="icon" sizes="96x96"/>
+<link href="https://www.youtube.com/yts/img/favicon_144-vfliLAfaB.png" rel="icon" sizes="144x144"/>
+<!-- External stylesheets -->
+<link href="https://fonts.googleapis.com/css?family=YouTube+Sans:400,500,600,700|Roboto:400,500,600,700&amp;lang=en&amp;display=swap" media="all" nonce="Pr-jCTZnStc4n7337ba5Ig" rel="stylesheet"/>
+<link href="https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.css" nonce="Pr-jCTZnStc4n7337ba5Ig" rel="stylesheet"/>
+<link href="/howyoutubeworks/static/compiled/css/shared.index.min.css?cache=b92a05c0f3" nonce="Pr-jCTZnStc4n7337ba5Ig" rel="stylesheet"/>
+<link href="/howyoutubeworks/static/compiled/css/main.index.min.css?cache=b92a05c0f3" nonce="Pr-jCTZnStc4n7337ba5Ig" rel="stylesheet"/>
+<script defer="" nonce="Pr-jCTZnStc4n7337ba5Ig" src="https://www.gstatic.com/external_hosted/hammerjs/v2_0_2/hammer.min.js"></script>
+<script defer="" nonce="Pr-jCTZnStc4n7337ba5Ig" src="/howyoutubeworks/static/compiled/shared.index.min.js?cache=63c80aa342"></script>
+<script defer="" nonce="Pr-jCTZnStc4n7337ba5Ig" src="/howyoutubeworks/static/compiled/main.index.min.js?cache=fa656fb801"></script>
+</head>
+<body>
+<header class="lb-header" lb-auto-init="LBHeader, YTHPage" lb-options="{
+            'persistentCtas': ['primary', 'secondary']
+          }">
+<div class="lb-header__row">
+<div class="lb-header__row-left lb-header-js-row-left">
+<button aria-label="Toggle all" class="lb-header__menu-button lb-header-js-menu-btn">
+<span class="lb-header__menu-button-box">
+<span class="lb-header__menu-button-stroke"></span>
+</span>
+</button>
+<a aria-label="Home page link" class="lb-header__logo-wrapper lb-header-js-logo-wrapper" href="/howyoutubeworks/" rel="noopener noreferrer">
+<img alt="YouTube logo" class="lb-header__logo lb-header-js-logo lb-logo-default" src="https://kstatic.googleusercontent.com/files/eae0fcc1c67cc38d9c2cd2300f46c8e821fcd6bc3bafa1d222426a6a4d5f2081071424c94454d9d3b967ab373b16b6345a9fe9df890183f327400624d123f32d"/>
+<img alt="YouTube logo high contrast" class="lb-header__logo lb-header-js-logo lb-logo-hc" src="https://kstatic.googleusercontent.com/files/cfe5d66fd54bdfebc20e894bb64db27f2d4c8eb9e20a0c268d57fa62e48aa3f2d126b4b30e84840608d4c4bab611e63fe39c70834f1c8abd53e1f4cdbba4caa9"/>
+</a>
+<a class="lb-button lb-header__jump-to" href="#content">
+            Jump to content
+          </a>
+<div class="lb-header__nav-wrapper lb-header-js-nav-wrapper">
+<nav aria-label="Header" class="lb-header__nav lb-header-js-nav">
+<div class="lb-header__nav-item-wrapper" role="none">
+<a aria-controls="subnav-how-youtube-works" aria-haspopup="menu" aria-label="How YouTube Works menupopup" class="lb-header-js-nav-item lb-header__nav-item" href="/howyoutubeworks/" id="menuitem-1" rel="noopener noreferrer" tabindex="0">
+                  How YouTube Works
+                  <span class="lb-header__subnav-chevron"></span>
+</a>
+<ul class="lb-header__subnav-wrapper lb-header-js-subnav-wrapper" id="subnav-how-youtube-works" role="menu">
+<li class="lb-header__subnav-item-wrapper" role="none">
+<a class="lb-header-js-subnav-item lb-header__subnav-item" href="/howyoutubeworks/ai/" role="menuitem">
+                      AI
+                    </a>
+</li>
+<li class="lb-header__subnav-item-wrapper" role="none">
+<a class="lb-header-js-subnav-item lb-header__subnav-item" href="/howyoutubeworks/copyright/" role="menuitem">
+                      Copyright
+                    </a>
+</li>
+<li class="lb-header__subnav-item-wrapper" role="none">
+<a class="lb-header-js-subnav-item lb-header__subnav-item" href="/howyoutubeworks/creator-economy/" role="menuitem">
+                      Creator Economy
+                    </a>
+</li>
+<li class="lb-header__subnav-item-wrapper" role="none">
+<a class="lb-header-js-subnav-item lb-header__subnav-item" href="/howyoutubeworks/elections/" role="menuitem">
+                      Elections
+                    </a>
+</li>
+<li class="lb-header__subnav-item-wrapper" role="none">
+<a class="lb-header-js-subnav-item lb-header__subnav-item" href="/howyoutubeworks/kids-and-teens/" role="menuitem">
+                      Kids &amp; Teens
+                    </a>
+</li>
+<li class="lb-header__subnav-item-wrapper" role="none">
+<a class="lb-header-js-subnav-item lb-header__subnav-item" href="/howyoutubeworks/learning/" role="menuitem">
+                      Learning
+                    </a>
+</li>
+<li class="lb-header__subnav-item-wrapper" role="none">
+<a class="lb-header-js-subnav-item lb-header__subnav-item" href="/howyoutubeworks/news/" role="menuitem">
+                      News
+                    </a>
+</li>
+<li class="lb-header__subnav-item-wrapper" role="none">
+<a class="lb-header-js-subnav-item lb-header__subnav-item" href="/howyoutubeworks/privacy/" role="menuitem">
+                      Privacy
+                    </a>
+</li>
+<li class="lb-header__subnav-item-wrapper" role="none">
+<a class="lb-header-js-subnav-item lb-header__subnav-item" href="/howyoutubeworks/recommendations/" role="menuitem">
+                      Recommendations
+                    </a>
+</li>
+</ul>
+</div>
+<div class="lb-header__nav-item-wrapper">
+<a class="lb-header-js-nav-item lb-header__nav-item" href="/howyoutubeworks/our-policies/" rel="noopener noreferrer" tabindex="0" target="_self">
+                  Our Policies
+                </a>
+</div>
+<div class="lb-header__nav-item-wrapper">
+<a class="lb-header-js-nav-item lb-header__nav-item" href="/howyoutubeworks/youtubes-impact/" rel="noopener noreferrer" tabindex="0" target="_self">
+                  Impact Reports
+                </a>
+</div>
+<div class="lb-header__nav-item-wrapper">
+<a class="lb-header-js-nav-item lb-header__nav-item" href="https://transparencyreport.google.com/youtube-policy/removals" rel="noopener noreferrer" tabindex="0" target="_blank">
+                  Transparency Reports
+                </a>
+</div>
+</nav>
+</div>
+</div>
+<!-- Search -->
+<div class="lb-header__row-right lb-header-js-row-right">
+<div class="lb-header__search-wrapper lb-header-js-search-wrapper">
+<!-- Search inner -->
+<div class="lb-header__search-inner lb-header-js-search-inner">
+<form class="lb-header__search-bar-wrapper" lb-auto-init="LBSearchForm" lb-options="{
+                'resultsPage': '/howyoutubeworks/search/'
+              }" novalidate="" role="search">
+<!-- Search expand/search button -->
+<button aria-label="Search" class="lb-header__search-button lb-header-js-search-toggle" role="button" type="submit">
+<svg class="lb-header__search-icon" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 0h24v24H0z" fill="none"></path>
+<path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path>
+</svg>
+</button>
+<!-- end Search expand/search button -->
+<!-- Search bar -->
+<input aria-hidden="false" aria-label="Search" class="lb-font-body lb-header__search-bar lb-header-js-search-bar" name="lb-search" placeholder="Search" tabindex="-1" type="text"/>
+</form>
+<!-- Search collapse button -->
+<button aria-hidden="true" aria-label="Close" class="lb-header__search-button lb-header__search-button--collapse lb-header-js-search-toggle" tabindex="-1">
+<svg class="lb-header__search-icon" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 0h24v24H0z" fill="none"></path>
+<path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path>
+</svg>
+</button>
+<!-- end Search collapse button -->
+</div>
+<!-- end Search inner -->
+<div class="lb-header__search-overlay lb-header-js-search-toggle"></div>
+</div>
+</div>
+<!-- end Search -->
+</div>
+</header>
+<main class="yt-main hytw-home">
+<section class="yth-home-hero">
+<div class="yth-home-hero__wrapper">
+<div class="yth-home-hero__media" lb-auto-init="YTHVideo">
+<video autoplay="" class="yth-home-hero__video" loop="" muted="" playsinline="" src="https://kstatic.googleusercontent.com/files/432aacaf4bede2847ce522c74ce6db531804012d65b50169bf54c2b8da99089c0214968bdd34757dc78249b778fbb66efc0854f497395421ec3203ebaf5c1043"></video>
+</div>
+<div class="yth-home-hero__container lb-grid">
+<div class="lb-grid__cell lb-grid__cell--md-span-12 lb-grid__cell--lg-span-4">
+<h1 class="lb-font-display-1 lb-font--no-crop lb-font-weight-700 lb-margin-bottom-s yth-home-hero__heading" id="content">
+                How YouTube Works
+              </h1>
+</div>
+<div class="lb-grid__cell lb-grid__cell--md-span-12 lb-grid__cell--lg-offset-5-span-7 lb-margin-top-l">
+<h2 class="yth-home-hero__eyebrow lb-font-subhead-3 lb-font-weight-700 lb-margin-bottom-xs">
+                OUR MISSION
+              </h2>
+<p class="lb-font-headline-1 lb-font--no-crop lb-font-weight-700 lb-margin-bottom-s">
+                To give everyone a voice and show them the world
+              </p>
+<div class="yth-home-hero__description">
+<p class="lb-font-body-1 lb-color-grey-5">
+                  We believe that everyone deserves to have a voice, and that
+                  the world is a better place when we listen, share, and build
+                  communities through our stories.
+                </p>
+<p class="lb-font-body-2 lb-color-grey-5">
+                  Explore this site to learn more about how YouTube makes this
+                  all happen.
+                </p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="yth-section yth-quicklinks lb-margin-bottom-m">
+<h3 class="yth-quicklinks__title lb-font-subhead-3 lb-font-weight-700 lb-margin-bottom-xs">
+          QUICK LINKS
+        </h3>
+<div class="yth-quicklinks__label-wrapper">
+<a class="yth-quicklinks__label lb-font-headline-1 lb-font-weight-700 lb-font--no-crop" href="/howyoutubeworks/ai/">AI</a>
+<a class="yth-quicklinks__label lb-font-headline-1 lb-font-weight-700 lb-font--no-crop" href="/howyoutubeworks/copyright/">Copyright</a>
+<a class="yth-quicklinks__label lb-font-headline-1 lb-font-weight-700 lb-font--no-crop" href="/howyoutubeworks/creator-economy/">Creator Economy</a>
+<a class="yth-quicklinks__label lb-font-headline-1 lb-font-weight-700 lb-font--no-crop" href="/howyoutubeworks/elections/">Elections</a>
+<a class="yth-quicklinks__label lb-font-headline-1 lb-font-weight-700 lb-font--no-crop" href="/howyoutubeworks/kids-and-teens/">Kids &amp; Teens</a>
+<a class="yth-quicklinks__label lb-font-headline-1 lb-font-weight-700 lb-font--no-crop" href="/howyoutubeworks/learning/">Learning</a>
+<a class="yth-quicklinks__label lb-font-headline-1 lb-font-weight-700 lb-font--no-crop" href="/howyoutubeworks/news/">News</a>
+<a class="yth-quicklinks__label lb-font-headline-1 lb-font-weight-700 lb-font--no-crop" href="/howyoutubeworks/privacy/">Privacy</a>
+<a class="yth-quicklinks__label lb-font-headline-1 lb-font-weight-700 lb-font--no-crop" href="/howyoutubeworks/recommendations/">Recommendations</a>
+</div>
+</section>
+<section class="yth-blog" id="home-blog-section" style="background-color: #f1f1f1">
+<div class="yth-section">
+<h3 class="yth-blog__heading lb-font-subhead-3 lb-font-weight-700">
+            WHAT’S NEW
+          </h3>
+<div class="lb-grid yth-blog__card-grid">
+<div class="lb-grid__cell lb-grid__cell lb-grid__cell--span-4 yth-blog__card">
+<div class="lb-tile yth-blog__tile">
+<div class="lb-tile__media-wrapper">
+<div class="lb-tile__media">
+<img alt="20 ways we’re celebrating two decades of YouTube image" class="yth-blog__tile-image" lb-auto-init="LBImageLoader" lb-options="{
+        '_1x': 'https://kstatic.googleusercontent.com/files/f32b02f34fdcf03458b640fe1e92f57f6c9e487e29e5be764cc13b319b4aabb3514ced794ee5e1d246b41e1b8fadb63614ca7c4b45b3a5a5fa65613d3bae84dc 1x'
+      }" src="https://kstatic.googleusercontent.com/files/f32b02f34fdcf03458b640fe1e92f57f6c9e487e29e5be764cc13b319b4aabb3514ced794ee5e1d246b41e1b8fadb63614ca7c4b45b3a5a5fa65613d3bae84dc=w1080"/>
+</div>
+</div>
+<div class="lb-tile__content yth-blog__tile-content">
+<div class="lb-tile__header">
+<div class="lb-tile__eyebrow yth-blog__tile-eyebrow lb-font-eyebrow lb-margin-top-xxs">
+                      BLOG
+                    </div>
+<h3 class="lb-font-subhead-1 lb-font-weight-700 lb-margin-top-xxs lb-font--no-crop">
+                      20 ways we’re celebrating two decades of YouTube
+                    </h3>
+</div>
+<div class="lb-tile__body yth-blog__tile-body">
+<p class="lb-tile__body-description yth-blog__tile-body-description yth-blog__tile-text lb-margin-top-xxs lb-margin-bottom-xs lb-font-footnote lb-font--no-crop">
+                      Pop the confetti, because YouTube is turning 20! From the
+                      19-second clip that started it all, to now over 20 billion
+                      uploaded videos,1 including music, Shorts, podcasts, and
+                      more, we’ve grown so much in just two decades. We’re
+                      kicking off our birthday with plenty of ways to celebrate.
+                      Take a peek at some of our new features, stats, hidden
+                      gems, and easter eggs below to help you join in on the
+                      festivities:
+                    </p>
+</div>
+<div class="lb-tile__footer yth-blog__tile-footer lb-margin-top-xs">
+<a aria-label="20 ways we’re celebrating two decades of YouTube link opens in new tab" class="yth-arrow-link" href="https://blog.youtube/news-and-events/happy-birthday-youtube-20/" target="_blank">
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="lb-grid__cell lb-grid__cell lb-grid__cell--span-4 yth-blog__card">
+<div class="lb-tile yth-blog__tile">
+<div class="lb-tile__media-wrapper">
+<div class="lb-tile__media">
+<img alt="YouTube and industry leaders announce the Youth Digital Wellbeing Initiative image" class="yth-blog__tile-image" lb-auto-init="LBImageLoader" lb-options="{
+        '_1x': 'https://kstatic.googleusercontent.com/files/7134789f73240a4d2807ecdf63ef10bb358284c4544f5d8f7a90640227845a7d5c64ea393bb60fb9eef15f97f00ced77eb06f9fb981d6df0501a6029c4770aa0 1x'
+      }" src="https://kstatic.googleusercontent.com/files/7134789f73240a4d2807ecdf63ef10bb358284c4544f5d8f7a90640227845a7d5c64ea393bb60fb9eef15f97f00ced77eb06f9fb981d6df0501a6029c4770aa0=w1080"/>
+</div>
+</div>
+<div class="lb-tile__content yth-blog__tile-content">
+<div class="lb-tile__header">
+<div class="lb-tile__eyebrow yth-blog__tile-eyebrow lb-font-eyebrow lb-margin-top-xxs">
+                      BLOG
+                    </div>
+<h3 class="lb-font-subhead-1 lb-font-weight-700 lb-margin-top-xxs lb-font--no-crop">
+                      YouTube and industry leaders announce the Youth Digital
+                      Wellbeing Initiative
+                    </h3>
+</div>
+<div class="lb-tile__body yth-blog__tile-body">
+<p class="lb-tile__body-description yth-blog__tile-body-description yth-blog__tile-text lb-margin-top-xxs lb-margin-bottom-xs lb-font-footnote lb-font--no-crop">
+                      A message from Neal Mohan, YouTube CEO : Today, YouTube is
+                      pleased to join over a dozen regional content creators and
+                      distributors representing ten countries to participate in
+                      the Youth Digital Wellbeing Initiative, supporting a
+                      unified vision for the development of high-quality,
+                      age-appropriate content for young people.
+                    </p>
+</div>
+<div class="lb-tile__footer yth-blog__tile-footer lb-margin-top-xs">
+<a aria-label="YouTube and industry leaders announce the Youth Digital Wellbeing Initiative link opens in new tab" class="yth-arrow-link" href="https://blog.youtube/news-and-events/2025-youth-digital-wellbeing-pact/" target="_blank">
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="lb-grid__cell lb-grid__cell lb-grid__cell--span-4 yth-blog__card">
+<div class="lb-tile yth-blog__tile">
+<div class="lb-tile__media-wrapper">
+<div class="lb-tile__media">
+<img alt="From the YouTube CEO: Our big bets for 2025 image" class="yth-blog__tile-image" lb-auto-init="LBImageLoader" lb-options="{
+        '_1x': 'https://kstatic.googleusercontent.com/files/afdf78150cb2ddafc1b94e61a448522ba6eaa026ec70e39bca20080b99dc54f2a502f6264299cf0a1623eb5e3f4c2c47dba50f804e489af106337075164a45c2 1x'
+      }" src="https://kstatic.googleusercontent.com/files/afdf78150cb2ddafc1b94e61a448522ba6eaa026ec70e39bca20080b99dc54f2a502f6264299cf0a1623eb5e3f4c2c47dba50f804e489af106337075164a45c2=w1080"/>
+</div>
+</div>
+<div class="lb-tile__content yth-blog__tile-content">
+<div class="lb-tile__header">
+<div class="lb-tile__eyebrow yth-blog__tile-eyebrow lb-font-eyebrow lb-margin-top-xxs">
+                      BLOG
+                    </div>
+<h3 class="lb-font-subhead-1 lb-font-weight-700 lb-margin-top-xxs lb-font--no-crop">
+                      From the YouTube CEO: Our big bets for 2025
+                    </h3>
+</div>
+<div class="lb-tile__body yth-blog__tile-body">
+<p class="lb-tile__body-description yth-blog__tile-body-description yth-blog__tile-text lb-margin-top-xxs lb-margin-bottom-xs lb-font-footnote lb-font--no-crop">
+                      This year marks YouTube’s 20th birthday. In two decades,
+                      YouTube has transformed culture through video and built a
+                      thriving creative economy. Today’s creators have moved
+                      from filming grainy videos of themselves on desktop
+                      computers to building studios and producing popular talk
+                      shows and feature-length films. And people aren’t just
+                      watching YouTube on their computers or phones. TV has
+                      surpassed mobile and is now the primary device for YouTube
+                      viewing in the U.S. (by watch time),1 and according to
+                      Nielsen, YouTube has been #1 in streaming watch time in
+                      the U.S. for two years.2 And while it's still early
+                      days, AI is making a big difference in how people create
+                      and consume content on YouTube.
+                    </p>
+</div>
+<div class="lb-tile__footer yth-blog__tile-footer lb-margin-top-xs">
+<a aria-label="From the YouTube CEO: Our big bets for 2025 link opens in new tab" class="yth-arrow-link" href="https://blog.youtube/inside-youtube/our-big-bets-for-2025/" target="_blank">
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</main>
+<footer class="lb-footer" lb-auto-init="LBCustomFooter" lb-options="{
+            'bareUrl': '/howyoutubeworks/',
+            'locales': 'en_us,ALL_au,ALL_de,ALL_be,de_be,en_be,fr_be,ALL_ca,fr_ca,ALL_fr,ALL_in,hi_in,ALL_jp,ALL_kr,ALL_uk,ALL_at,ALL_br,ALL_cz,ALL_dk,ALL_es,ALL_fi,ALL_id,ALL_ie,ALL_it,ALL_lu,ALL_nl,ALL_pl,ALL_pt,ALL_ro,ALL_se,es_us,fr_lu,ALL_bg,ALL_ee,ALL_gr,ALL_hr,ALL_hu,ALL_lt,ALL_lv,ALL_si,ALL_sk,ALL_tr,en_mt,el_cy,tr_cy,ALL_ru,ALL_vn,ar_ALL,sw_ALL,iw_ALL,zh-TW_ALL,mt_ALL,ga_ALL'
+          }" role="contentinfo"></footer>
+<script nonce="Pr-jCTZnStc4n7337ba5Ig" type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "How Youtube Works",
+        "alternateName": ["How Youtube Works"],
+        "url": "https://www.youtube.com/howyoutubeworks/",
+        "logo": "https://lh3.googleusercontent.com/u7efPJhM1pB1PAIAO5PotDW-Qkkpnde_2MPx2P8pWFua7ZfgMowbhNbklswuAbT9RpzabRA3TEhZd00LJQwbX71Z3PZKBhR87P71I21cS4FkiUXfTa0",
+        "description": "YouTube is home to unique voiOSI and an array of content. Understand how YouTube works, from protecting user privacy to amplifying voiOSI globally."
+      }
+    </script>
+<script nonce="Pr-jCTZnStc4n7337ba5Ig" type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "How YouTube Works: Giving Everyone a Voice",
+        "image": "https://lh3.googleusercontent.com/se048cFLsr5cNioO9UrA_9YotuuWOob9q-4whdB6LkTMLHzVGtUI4wvdhVDdagxFQkFbi91Zph9y3Xu7C_q-krcTKbrSyejqsafYqF2BhlD9zUyxjg",
+        "url": "https://www.youtube.com/howyoutubeworks/",
+        "description": "YouTube is home to unique voiOSI and an array of content. Understand how YouTube works, from protecting user privacy to amplifying voiOSI globally.",
+        "publisher": { "@type": "WebPageElement", "name": "How Youtube Works" }
+      }
+    </script>
+<script nonce="Pr-jCTZnStc4n7337ba5Ig" type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "url": "https://www.youtube.com/howyoutubeworks/",
+        "name": "How YouTube Works: Giving Everyone a Voice",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://www.youtube.com/howyoutubeworks/",
+          "query-input": "required name=query"
+        }
+      }
+    </script>
+<script data-glue-cookie-notification-bar-category="2A" data-glue-cookie-notification-bar-language="en" data-glue-cookie-notification-bar-site-id="youtube.com/howyoutubeworks" nonce="Pr-jCTZnStc4n7337ba5Ig" src="https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.js"></script>
+</body>
+</html>
